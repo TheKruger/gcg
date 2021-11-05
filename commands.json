@@ -1,0 +1,7 @@
+{
+    "fm": "G00",
+    "fast move": "G00",
+    "linear int": "G01",
+    "circular int cw": "G02",
+    "circular int ccw": "G02"
+}
