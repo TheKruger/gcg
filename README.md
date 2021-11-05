@@ -21,7 +21,7 @@ If you use the `-C` or `--comments` then you can add commands after the g-code i
 The contributions are welcomed. This project is diffucult for me because I don't know how the g-code works.
 So if you known how the g-code works and the g-code instructions then I will thank if you help me out.
 Because I only know a little about the g-code and I collected all the informations from the internet and I hope these informations are good.
-And of course python developer are welcomed too.
+Or if you can contribute anything useful to the project.
 
 # TODO
 - Merging multiple commands file into one.
