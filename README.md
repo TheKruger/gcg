@@ -26,4 +26,6 @@ Or if you can contribute anything useful to the project.
 # TODO
 - Merging multiple commands file into one.
 - Adding more comments for instructions.
-- Maybe adding gui version
+- Extending the default [`commands.json`](./commands.json) file with more commands.
+- Adding i18n for multiple language support at comments.
+- Maybe adding gui version.
